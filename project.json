@@ -8,7 +8,7 @@
       "chipFamily": "ESP8266",
       "parts": [
         {
-          "path": "",
+          "path": "https://github.com/vhavenko/ESP32_OTA/raw/refs/heads/main/GreenHouse_control_ESP32_v_008.ino.bin",
           "offset": 0
         }
       ]
@@ -26,7 +26,7 @@
       "chipFamily": "ESP32-C3",
       "parts": [
         {
-          "path": "",
+          "path": "https://github.com/vhavenko/ESP32_OTA/raw/refs/heads/main/GreenHouse_control_ESP32_v_008.ino.bin",
           "offset": 0
         }
       ]
@@ -35,7 +35,7 @@
       "chipFamily": "ESP32-S2",
       "parts": [
         {
-          "path": "",
+          "path": "https://github.com/vhavenko/ESP32_OTA/raw/refs/heads/main/GreenHouse_control_ESP32_v_008.ino.bin",
           "offset": 0
         }
       ]
@@ -44,7 +44,7 @@
       "chipFamily": "ESP32-S3",
       "parts": [
         {
-          "path": "",
+          "path": "https://github.com/vhavenko/ESP32_OTA/raw/refs/heads/main/GreenHouse_control_ESP32_v_008.ino.bin",
           "offset": 0
         }
       ]
