@@ -3,5 +3,6 @@
   "about": "",
   "version": "2.0",
   "notes": "Невеликі виправлення та вдосконалення",
+  "chipFamily": "ESP32",
   "path": "https://raw.githubusercontent.com/GyverLibs/GyverHub-example/main/bin/firmware.bin"
 }
