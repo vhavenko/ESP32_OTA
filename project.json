@@ -2,7 +2,7 @@
   "name": "ESP32_OTA",
   "about": "",
   "version": "1.5",
-  "notes": "Невеликі виправлення",
+  "notes": "Невеликі виправлення та вдосконалення",
   "builds": [
        {
       "chipFamily": "ESP32",
