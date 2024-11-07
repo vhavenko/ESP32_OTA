@@ -17,7 +17,7 @@
       "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/GyverLibs/GyverHub-example/main/bin/firmware.bin",
+          "path": "https://github.com/vhavenko/ESP32_OTA/raw/refs/heads/main/GreenHouse_control_ESP32_v_008.ino.bin",
           "offset": 0
         }
       ]
