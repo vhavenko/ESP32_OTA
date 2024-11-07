@@ -8,7 +8,7 @@
       "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "https://github.com/vhavenko/ESP32_OTA/raw/refs/heads/main/ESP32_github_OTA.ino.bin",
+          "path": "https://github.com/vhavenko/ESP32_OTA/raw/refs/heads/main/GreenHouse_control_ESP32_v_008.ino.bin",
           "offset": 0
         }
       ]
