@@ -3,51 +3,5 @@
   "about": "",
   "version": "1.7",
   "notes": "Невеликі виправлення та вдосконалення",
-  "builds": [
-    {
-      "chipFamily": "ESP8266",
-      "parts": [
-        {
-          "path": "https://raw.githubusercontent.com/GyverLibs/GyverHub-example/main/bin/firmware.bin",
-          "offset": 0
-        }
-      ]
-    },
-    {
-      "chipFamily": "ESP32",
-      "parts": [
-        {
-          "path": "https://raw.githubusercontent.com/GyverLibs/GyverHub-example/main/bin/firmware.bin",
-          "offset": 0
-        }
-      ]
-    },
-    {
-      "chipFamily": "ESP32-C3",
-      "parts": [
-        {
-          "path": "https://raw.githubusercontent.com/GyverLibs/GyverHub-example/main/bin/firmware.bin",
-          "offset": 0
-        }
-      ]
-    },
-    {
-      "chipFamily": "ESP32-S2",
-      "parts": [
-        {
-          "path": "https://raw.githubusercontent.com/GyverLibs/GyverHub-example/main/bin/firmware.bin",
-          "offset": 0
-        }
-      ]
-    },
-    {
-      "chipFamily": "ESP32-S3",
-      "parts": [
-        {
-          "path": "https://github.com/vhavenko/ESP32_OTA/raw/refs/heads/main/GreenHouse_control_ESP32_v_008.ino.bin",
-          "offset": 0
-        }
-      ]
-    }
-  ]
+  "path": "https://raw.githubusercontent.com/GyverLibs/GyverHub-example/main/bin/firmware.bin"
 }
