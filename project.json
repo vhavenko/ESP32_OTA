@@ -1,8 +1,17 @@
 {
   "name": "ESP32_OTA",
-  "about": "",
+  "about": "спроба OTA оновлення",
   "version": "2.0",
   "notes": "Невеликі виправлення та вдосконалення",
-  "chipFamily": "ESP32",
-  "path": "https://raw.githubusercontent.com/GyverLibs/GyverHub-example/main/bin/firmware.bin"
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "https://github.com/vhavenko/ESP32_OTA/raw/refs/heads/main/GreenHouse_control_ESP32_v_008.ino.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
 }
